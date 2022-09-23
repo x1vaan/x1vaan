@@ -1,6 +1,6 @@
 # Hello, this is my profile👋
 
-## My name is Ivan, i'm a Full Stack Developer who wants to improve and learn more of the Back-end development.
+## My name is Sergio Ivan Garcia, i'm a Full Stack Developer who wants to improve and learn more of the Back-end development.
 - I started programming in May 2022 studying in a bootcamp.
 - Currently looking for a job to develop my career and learn something new everyday.
 
