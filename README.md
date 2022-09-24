@@ -4,10 +4,6 @@
 - I started programming in May 2022 studying in a bootcamp.
 - Currently looking for a job to develop my career and learn something new everyday.
 
-## Contact
-- 📧 ivanx467@gmail.com
-- [Linkedin](https://www.linkedin.com/in/sergio-ivan-garcia/)
-
 ## Projects
 - [Videogames-app](https://videogames-project-topaz.vercel.app/)
 
@@ -21,4 +17,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x1vaan&show_icons=true&theme=tokyonight)
 
-
+## Contact
+- 📧 ivanx467@gmail.com
+- [Linkedin](https://www.linkedin.com/in/sergio-ivan-garcia/)
