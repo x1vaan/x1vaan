@@ -4,9 +4,8 @@
 - I started programming in May 2022 studying in a bootcamp.
 - Currently looking for a job to develop my career and learn something new everyday.
 
-## Projects
-- [Videogames-app](https://videogames-project-topaz.vercel.app/)
-- [FIT-FOCUS](https://pf-app-five.vercel.app/)
+## Portfolio
+- [Portfolio](https://ivan-garcia.netlify.app/)
 
 ## Stack
 - Javascript
