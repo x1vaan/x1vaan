@@ -2,7 +2,8 @@
 
 ### My name is Sergio Ivan Garcia, i'm a Full Stack Developer who wants to improve and learn more of the Back-end development.
 - I started programming in May 2022 studying in a bootcamp.
-- Currently looking for a job to grow in my career and learn something new everyday.
+- Currently looking for a job where i can keep gaining experience and grow professionally and personally. 
+Learning new things everyday.
 
 ## Portfolio
 - [Portfolio](https://ivan-garcia.netlify.app/)
