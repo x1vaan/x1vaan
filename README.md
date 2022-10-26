@@ -10,12 +10,14 @@ Learning new things everyday.
 - [Portfolio](https://ivan-garcia.netlify.app/)
 
 ## Stack
-- Javascript
+- JavaScript
+- TypeScript
 - Node.js
 - Express
 - PostgreSQL
 - MongoDB
 - React
+- Redux
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x1vaan&show_icons=true&theme=tokyonight)
 
