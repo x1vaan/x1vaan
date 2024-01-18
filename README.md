@@ -13,10 +13,13 @@ Learning new things everyday.
 - JavaScript
 - TypeScript
 - Node.js
+- Nest.js
+- Strapi
 - Express
 - PostgreSQL
 - MongoDB
 - React
+- Next.js
 - Redux
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=x1vaan&show_icons=true&theme=tokyonight)
