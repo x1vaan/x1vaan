@@ -6,8 +6,8 @@
 - Currently looking for a job where i can keep gaining experience, grow professionally and personally. 
 Learning new things everyday.
 
-## Portfolio
-- [Portfolio](https://ivan-garcia.netlify.app/)
+## Portfolio (Not finalized yet)
+- [Portfolio](https://portfolio-ivan-garcia.vercel.app/)
 
 ## Stack
 - JavaScript
