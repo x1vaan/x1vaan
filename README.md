@@ -2,9 +2,7 @@
 
 ### My name is Sergio Ivan Garcia, i'm a Full Stack Developer specializing on Back-end development.
 > About me
-- I started programming in May 2022 studying in a bootcamp.
-- Currently looking for a job where i can keep gaining experience, grow professionally and personally. 
-Learning new things everyday.
+- I started studying programming in May 2022 as a self-taught programmer. Now im studying a programming in University, on my first year.
 
 ## Portfolio (Not finalized yet)
 - [Portfolio](https://portfolio-ivan-garcia.vercel.app/)
